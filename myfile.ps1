@@ -1,1 +1,1 @@
-Get-Service
+ipconfig /all
